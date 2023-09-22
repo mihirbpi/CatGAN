@@ -1,2 +1,2 @@
-# PokemonGAN
-Creating new Pokemon with GANs
+# CatGAN
+Creating cat faces with GANs
